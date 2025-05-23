@@ -65,12 +65,12 @@
 
   <section class="hero">
     <h1>Zone In Xtreme</h1>
-    <p>限界を越えろ。</p>
+    <p>進化を超えろ</p>
   </section>
 
   <section id="about">
     <h2>チーム紹介</h2>
-    <p>ZIXはeスポーツで限界に挑戦するプロチームです。</p>
+    <p>ZIXはeスポーツでフォートナイトに挑戦するプロチームです。</p>
   </section>
 
   <section id="members">
