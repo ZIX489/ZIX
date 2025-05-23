@@ -75,7 +75,10 @@
 
   <section id="members">
     <h2>メンバー</h2>
-    <p>メンバー情報は現在準備中です。</p>
+    <p>　ZIX　Ralezfv!
+         ZIX  jixnoxfv!
+      
+    </p>
   </section>
 
   <section id="matches">
